@@ -1,0 +1,2 @@
+# linuxkurssi
+Kotitehtäväraportit Linux-kurssille
